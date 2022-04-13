@@ -2,7 +2,7 @@
 
 
 
-<img  src= "print.jpeg" alt="print do relogio">
+<img  src= "https://github.com/LucasDdouglas/Projeto-Relogio/blob/master/assets/print.jpeg" width="800px;"  alt="print do relogio">
 
 > Esse é um relógio que acompanha os períodos do dia, manhã, tarde e noite. Na imagem do background temos o período do dia atual(noite) e na imagem menor temos o proximo período do dia(manhã).
 
@@ -38,13 +38,11 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="lucas-douglas.png" width="100px;" alt="Foto do Lucas Douglas"/><br>
+        <img src="https://github.com/LucasDdouglas/Projeto-Relogio/blob/master/assets/lucas%20douglas.jpeg" width="100px;" alt="Foto do Lucas Douglas"/><br>
         <sub>
           <b>Lucas Douglas</b>
         </sub>
